@@ -1,0 +1,39 @@
+﻿
+Renamed 'bodyDef' to 'l_bodyDef':
+---------------------------------
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(52, 12)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(62, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(63, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(65, 36)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(73, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(74, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(76, 37)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(87, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(90, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(91, 4)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(93, 36)
+
+Renamed 'circleShape' to 'l_circleShape':
+-----------------------------------------
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(53, 16)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(66, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(68, 22)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(77, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(79, 22)
+
+Renamed 'fixtureDef' to 'l_fixtureDef':
+---------------------------------------
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(54, 15)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(56, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(57, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(58, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(68, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(69, 29)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(79, 2)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(80, 30)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(94, 29)
+
+Renamed 'polygonShape' to 'm_polyShape':
+----------------------------------------
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(86, 17)
+c:\Users\LordAlfons\Desktop\MotorCycle2D\Coursework 2 - starter\Coursework 2 - starter\src\Bike.cpp(90, 2)
